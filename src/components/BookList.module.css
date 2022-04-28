@@ -1,0 +1,28 @@
+.listContainer {
+	margin: 0 auto;
+	padding: 0 1rem;
+	max-width: 1400px;
+}
+
+.listTitle {
+	padding: 1rem 0;
+}
+
+.list {
+	list-style: none;
+}
+
+.listItem {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	margin-bottom: 1rem;
+}
+
+.listItemContent {}
+
+.listItemTitle {}
+
+.listItemAuthor {}
+
+.listItemNumber {}
